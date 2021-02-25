@@ -23,7 +23,7 @@
       <itunes:subtitle>Valentine&apos;s Day Special</itunes:subtitle>
       <itunes:summary>We talk about our Valentine&apos;s Day dinner where we make a pineapple bowl, filled with coconut rice, peppers, salmon, shrimp, and (of course) pineapple.</itunes:summary>
       <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/>
-      <enclosure url="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="6:05" type="audio/mpeg"/>
+      <enclosure url="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="3162735" type="audio/mpeg"/>
       <guid>1</guid>
       <pubDate>Thu Feb 25 2021 12:55:49 GMT-0800 (Pacific Standard Time)</pubDate>
       <itunes:duration>365</itunes:duration>
@@ -31,7 +31,6 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-    <enclosure url="http://mypodcast.com/episode001.mp3" length="3162735"type="audio/mpeg">
     </item>
   </channel>
 </rss>
