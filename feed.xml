@@ -3,10 +3,10 @@
   <channel>
     <title>The Big Kids Table</title>
     <link>https://www.instagram.com/angiedoes/</link>
-    <language></language>
+    <language>en-us</language>
     <copyright></copyright>
     <itunes:subtitle>Food Love and Everything In Betweem</itunes:subtitle>
-    <itunes:author>Angela Alexander</itunes:author>
+    <itunes:author>Angela And Ryan</itunes:author>
     <itunes:summary>We, Angie and Ryan, talk about the food</itunes:summary>
     <itunes:owner>
       <itunes:name>Angela Alexander</itunes:name>
@@ -14,6 +14,7 @@
     </itunes:owner>
     <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/cover/cover-photo.jpg"/>
     <itunes:category text="Food"/>
+    <itunes:explicit>False</itunes:explicit>
 
     <item>
       <title>Our First Valentine&apos;s Day</title>
