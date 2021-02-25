@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright></copyright>
     <itunes:subtitle>Food Love and Everything In Betweem</itunes:subtitle>
-    <itunes:author>Angela And Ryan</itunes:author>
+    <itunes:author>AngelaAndRyan</itunes:author>
     <description>Angie and Ryan talk about the food</description>
     <itunes:owner>
       <itunes:name>Angela Alexander</itunes:name>
@@ -18,15 +18,16 @@
 
     <item>
       <itunes:title>Our First Valentines Day</itunes:title>
+      <author>AngieAndRyan</author>
+      <itunes:author>AngieAndRyan</itunes:author>
       <title>Our First Valentines Day</title>
-      <itunes:author>Angela Alexander</itunes:author>
       <itunes:subtitle>Valentines Day Special</itunes:subtitle>
       <itunes:summary>We talk about our Valentines Day dinner where we make a pineapple bowl, filled with coconut rice, peppers, salmon, shrimp, and (of course) pineapple.</itunes:summary>
       <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/>
       <enclosure url="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="3162735" type="audio/mpeg"/>
-      <guid>1</guid>
+      <guid isPermaLink="false">1</guid>
       <pubDate>Thu, 25 Feb 2021 12:55:49 PDT</pubDate>
-      <itunes:duration>3162735</itunes:duration>
+      <itunes:duration>6:05</itunes:duration>
       <itunes:episodeType>Full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
