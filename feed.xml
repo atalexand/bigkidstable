@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Big Kids Table</title>
@@ -16,10 +16,10 @@
     <itunes:category text="Food"/>
 
     <item>
-      <title>Our First Valentine&#x27;s Day</title>
+      <title>Our First Valentine&apos;s Day</title>
       <itunes:author>Angela Alexander</itunes:author>
-      <itunes:subtitle>Valentine&#x27;s Day Special</itunes:subtitle>
-      <itunes:summary>We talk about our Valentine&#x27;s Day dinner where we make a pineapple bowl, filled with coconut rice, peppers, salmon, shrimp, and (of course) pineapple.</itunes:summary>
+      <itunes:subtitle>Valentine&apos;s Day Special</itunes:subtitle>
+      <itunes:summary>We talk about our Valentine&apos;s Day dinner where we make a pineapple bowl, filled with coconut rice, peppers, salmon, shrimp, and (of course) pineapple.</itunes:summary>
       <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/>
       <enclosure url="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="6:05" type="audio/mpeg"/>
       <guid></guid>
