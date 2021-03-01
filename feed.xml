@@ -4,7 +4,7 @@
     <title>The Big Kids Table</title>
     <description>Angie and Ryan talk about the food</description>
     <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/cover/cover-photo.jpg"/>
-    <language>en-us</language>
+    <language>en</language>
     <itunes:category text="Food"/>
     <itunes:explicit>False</itunes:explicit>
 
