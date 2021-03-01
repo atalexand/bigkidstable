@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Big Kids Table</title>
-    <link>https://www.instagram.com/angiedoes/</link>
+    <description>Angie and Ryan talk about the food</description>
+    <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/cover/cover-photo.jpg"/>
     <language>en-us</language>
+    <itunes:category text="Food"/>
+    <itunes:explicit>False</itunes:explicit>
+
+    <!-- <link>https://www.instagram.com/angiedoes/</link>
     <copyright></copyright>
     <itunes:subtitle>Food Love and Everything In Betweem</itunes:subtitle>
     <itunes:author>AngelaAndRyan</itunes:author>
-    <description>Angie and Ryan talk about the food</description>
     <itunes:owner>
       <itunes:name>Angela Alexander</itunes:name>
       <itunes:email>atalexand@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/cover/cover-photo.jpg"/>
-    <itunes:category text="Food"/>
-    <itunes:explicit>False</itunes:explicit>
+     -->
 
-    <item>
+    <!-- <item>
       <itunes:title>Our First Valentines Day</itunes:title>
       <author>AngieAndRyan</author>
       <itunes:author>AngieAndRyan</itunes:author>
@@ -32,6 +34,6 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-    </item>
+    </item> -->
   </channel>
 </rss>
