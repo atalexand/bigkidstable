@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[ep1[(https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a)
+[ep1](https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
