@@ -3,7 +3,7 @@
   <channel>
     <title>The Big Kids Table</title>
     <description>Angie and Ryan talk about the food</description>
-    <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/cover/cover-photo.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/atalexand/bigkidstable/main/cover/cover-photo.jpg"/>
     <language>en</language>
     <itunes:category text="Food"/>
     <itunes:explicit>False</itunes:explicit>
@@ -17,16 +17,17 @@
       <itunes:email>atalexand@gmail.com</itunes:email>
     </itunes:owner>
      -->
-
-    <!-- <item>
+  <item>
+    <title>Our First Valentines Day</title>
+    <enclosure url="https://raw.githubusercontent.com/atalexand/bigkidstable/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="3162735" type="audio/mpeg"/>
+  </item>
+    <!--
       <itunes:title>Our First Valentines Day</itunes:title>
       <author>AngieAndRyan</author>
       <itunes:author>AngieAndRyan</itunes:author>
-      <title>Our First Valentines Day</title>
       <itunes:subtitle>Valentines Day Special</itunes:subtitle>
       <itunes:summary>We talk about our Valentines Day dinner where we make a pineapple bowl%2C filled with coconut rice%2C peppers%2C salmon%2C shrimp%2C and (of course) pineapple.</itunes:summary>
       <itunes:image href="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/>
-      <enclosure url="https://github.com/atalexand/bigkidstable/blob/main/episodes/2020-02-13_ValentinesDay/audio.m4a" length="3162735" type="audio/mpeg"/>
       <guid isPermaLink="false">1</guid>
       <pubDate>Thu%2C 25 Feb 2021 12:55:49 PDT</pubDate>
       <itunes:duration>6:05</itunes:duration>
@@ -34,6 +35,6 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-    </item> -->
+    -->
   </channel>
 </rss>
