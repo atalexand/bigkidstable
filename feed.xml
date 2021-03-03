@@ -3,7 +3,7 @@
   <channel>
     <title>The Big Kids Table</title>
     <description>Angie and Ryan talk about the food</description>
-    <itunes:image href="https://atalexand.github.io/bigkidstable/cover/cover-photo.jpg"/>
+    <itunes:image href="https://atalexand.github.io/bigkidstable/cover/cover-photo-square.jpg"/>
     <language>en</language>
     <itunes:category text="Food"/>
     <itunes:explicit>no</itunes:explicit>
