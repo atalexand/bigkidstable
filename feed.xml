@@ -10,7 +10,7 @@
     <link>https://www.instagram.com/angiedoes/</link>
   <item>
     <title>Our First Valentines Day</title>
-    <itunes:image href="https://atalexand.github.io/bigkidstable/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/>
+    <!-- <itunes:image href="https://atalexand.github.io/bigkidstable/episodes/2020-02-13_ValentinesDay/coverphoto.jpg"/> -->
     <enclosure url="https://atalexand.github.io/bigkidstable/episodes/2020-02-13_ValentinesDay/vdayepisode.m4a" length="3162735" type="audio/x-m4a"/>
   </item>
   </channel>
