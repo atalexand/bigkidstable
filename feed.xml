@@ -28,5 +28,18 @@
     <itunes:episode>1</itunes:episode>
     <itunes:season>1</itunes:season>
   </item>
+  <item>
+    <title>All Thhings Beer</title>
+    <enclosure url="https://atalexand.github.io/bigkidstable/episodes/2020-05-10_Beers/BEERS.m4a" length="3660467" type="audio/x-m4a"/>
+    <guid>2</guid>
+    <pubDate>Mon, 07 Jun 2021 12:55:49 PDT</pubDate>
+    <itunes:duration>7:15</itunes:duration>
+    <itunes:image href="https://atalexand.github.io/bigkidstable/episodes/2020-05-10_Beers/beers.jpg"/>
+    <description>We talk about BEERS. We go through what we're drinking tonight and some recent favorites.</description>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+  </item>
   </channel>
 </rss>
