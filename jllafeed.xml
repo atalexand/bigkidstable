@@ -3,7 +3,7 @@
   <channel>
     <title>JLLA: The Junior League of Los Angeles</title>
     <description>This is a podcast designed for you to get to know some of the members of the Junior League of Los Angeles</description>
-    <itunes:image href="https://atalexand.github.io/bigkidstable/cover/cover-photo-square.jpg"/>
+    <itunes:image href="https://atalexand.github.io/bigkidstable/JLLA/JLLALOGO.png"/>
     <language>en</language>
     <itunes:category text="Non-Profit"/>
     <itunes:explicit>no</itunes:explicit>
