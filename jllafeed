@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JLLA: The Junior League of Los Angeles</title>
+    <description>This is a podcast designed for you can get to know some of the members of the Junior League of Los Angeles</description>
+    <itunes:image href="https://atalexand.github.io/bigkidstable/cover/cover-photo-square.jpg"/>
+    <language>en</language>
+    <itunes:category text="Food"/>
+    <itunes:explicit>no</itunes:explicit>
+    <link>https://www.instagram.com/angiedoes/</link>
+    <itunes:author>AngelaAndRyan</itunes:author>
+    <itunes:author>AngelaAndRyan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Angela Alexander</itunes:name>
+      <itunes:email>atalexand@gmail.com</itunes:email>
+    </itunes:owner>
+    <copyright>Please Do Not Use This Audio</copyright>
+
+  <item>
+    <title>Our First Valentines Day</title>
+    <enclosure url="https://atalexand.github.io/bigkidstable/episodes/2020-02-13_ValentinesDay/vdayepisode.m4a" length="3162735" type="audio/x-m4a"/>
+    <guid>1</guid>
+    <pubDate>Thu, 25 Feb 2021 12:55:49 PDT</pubDate>
+    <itunes:duration>6:05</itunes:duration>
+    <itunes:image href="https://atalexand.github.io/bigkidstable/episodes/2020-02-13_ValentinesDay/coverphotosquare.jpg"/>
+    <description>We talk about our Valentines Day dinner where we make a pineapple bowl filled with coconut rice, peppers, salmon, shrimp, and pineapple chunks.</description>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+  </item>
+
+  </channel>
+</rss>
